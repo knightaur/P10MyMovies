@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="title">Large Text</string>
+    <string name="textview">Textview</string>
+</resources>
